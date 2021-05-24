@@ -67,7 +67,7 @@ class Message {
                 break;
             case 1:  // person 1
                 // printing username
-                username = authors[1] + ": ";
+                username = authors[1] + ":";
                 userWidth = textWidth(username);
                 textStyle(BOLD);
                 fill(color('#a9dde2'));
@@ -83,7 +83,7 @@ class Message {
                 break;
             case 2:  // person 2
                 // printing username
-                username = authors[2] + ": ";
+                username = authors[2] + ":";
                 userWidth = textWidth(username);
                 textStyle(BOLD);
                 fill(color('#c1ac6d'));

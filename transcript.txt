@@ -1,58 +1,58 @@
-0#2#Y#Chat trans opt: received. 31-12-29 13:24:18 REC:Log>
-0#1#N#mountAinmAn online
-0#1#N#bateau online
-0#0.5#N#Oshii tracking program: running
+0#2#Y# Chat trans opt: received. 31-12-29 13:24:18 REC:Log>
+0#1#N# mountAinmAn online
+0#1#N# bateau online
+0#0.5#N# Oshii tracking program: running
 0#1#Y# 
-1#2#Y#hey
-2#1#N#heyyyyy
-2#1#N#where werew you???
-2#0.25#N#were
-2#1#N#are you coming over??
-2#1.25#N#my moms been bugging me so she can plan dinner
-2#1#N#ive been pinging you all day
-2#1.5#N#:(
-1#1#N#sorry
-1#1#N#i had to go to pss9 headquarters
-2#1#N#what
-1#0.5#N#to be investigated
-2#1#N#wait what the fuck?? did you get arrested??
-1#1#N#no
-1#1#N#my dad got ghost hacked
-2#1.5#N#oh my god
-2#1#N#yama i'm so sorry
-2#1.75#N#is he ok?
-2#1#N#are you ok?
-2#1#N#do you need me to come over?
-1#1#N#no
-1#2#N#i mean maybe
-1#1#N#i don't know
-1#1#N#it was megatech
-1#2#N#they wanted to infiltrate new port with people they brought over from gavel
-1#0.5#N#and control them
-2#1#N#but isn't your dad from here?
-1#1#N#he isn't
-1#1#N#he thought he was
-1#1.5#N#everything is fake
-1#2#N#well my mom wasn't fake
-1#1#N#but she was from gavel too, not here
-1#2#N#i don't know what to do
-2#1#N#fuck
-2#1#N#okok
-2#1#N#this sucks
-2#0.5#N#but
-2#1#N#i come over
-2#1#N#with food
-2#1#N#we eat
-2#1#N#we go to the new years festival
-2#1#N#we watch a show or something
-2#1#N#and then when everyon'es asleep
-2#1.25#N#we spraypaint megatech hq
-1#2#N#i don't know
-1#1#N#you know my dad would tell me stories every year
-1#1#N#about how his family celebrated new years?
-1#1#N#we'd go to the same shrine
-1#0.5#N#every year
-1#1#N#-same shrine for 100 years- he used to say
-1#1.25#N#but that's a lie
-1#1.75#N#i don't even know if i should celebrate anymore
+1#2#Y# hey
+2#1#N# heyyyyy
+2#1#N# where werew you???
+2#0.25#N# were
+2#1#N# are you coming over??
+2#1.25#N# my moms been bugging me so she can plan dinner
+2#1#N# ive been pinging you all day
+2#1.5#N# :(
+1#1#N# sorry
+1#1#N# i had to go to pss9 headquarters
+2#1#N# what
+1#0.5#N# to be investigated
+2#1#N# wait what the fuck?? did you get arrested??
+1#1#N# no
+1#1#N# my dad got ghost hacked
+2#1.5#N# oh my god
+2#1#N# yama i'm so sorry
+2#1.75#N# is he ok?
+2#1#N# are you ok?
+2#1#N# do you need me to come over?
+1#1#N# no
+1#2#N# i mean maybe
+1#1#N# i don't know
+1#1#N# it was megatech
+1#2#N# they wanted to infiltrate new port with people they brought over from gavel
+1#0.5#N# and control them
+2#1#N# but isn't your dad from here?
+1#1#N# he isn't
+1#1#N# he thought he was
+1#1.5#N# everything is fake
+1#2#N# well my mom wasn't fake
+1#1#N# but she was from gavel too, not here
+1#2#N# i don't know what to do
+2#1#N# fuck
+2#1#N# okok
+2#1#N# this sucks
+2#0.5#N# but
+2#1#N# i come over
+2#1#N# with food
+2#1#N# we eat
+2#1#N# we go to the new years festival
+2#1#N# we watch a show or something
+2#1#N# and then when everyon'es asleep
+2#1.25#N# we spraypaint megatech hq
+1#2#N# i don't know
+1#1#N# you know my dad would tell me stories every year
+1#1#N# about how his family celebrated new years?
+1#1#N# we'd go to the same shrine
+1#0.5#N# every year
+1#1#N# -same shrine for 100 years- he used to say
+1#1.25#N# but that's a lie
+1#1.75#N# i don't even know if i should celebrate anymore
 0#2#Y# 
